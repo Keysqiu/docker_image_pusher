@@ -3,3 +3,4 @@ redis:latest
 rabbitmq:3.7.17-management
 nginx:latest
 portainer/portainer
+fauria/vsftpd
