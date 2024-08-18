@@ -1,2 +1,4 @@
 mysql:8.1.0
-
+redis:latest
+rabbitmq:3.7.17-management
+nginx:latest
