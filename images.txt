@@ -7,3 +7,4 @@ fauria/vsftpd
 elasticsearch:7.9.2
 kibana:7.9.2
 logstash:7.9.2
+mcr.microsoft.com/dotnet/core/sdk:3.1-buster
